@@ -1,0 +1,14 @@
+body{
+	font-size: 16px;
+	color: #fff;
+	background-color: #EDC7B7;
+	font-family: sans-serif;
+}
+
+/** header **/
+#header-nav{
+	background-color: #EEE2DC;
+	border-radius: 0;
+	border: 0;
+}
+
